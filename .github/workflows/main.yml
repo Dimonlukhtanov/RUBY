@@ -18,5 +18,5 @@ jobs:
       - name: Rubocop
         run: bundle exec rubocop
       - name: RSpec
-        run: cd 1lab bundle exec rspec
+        run: cd 1lab && bundle exec rspec
 
