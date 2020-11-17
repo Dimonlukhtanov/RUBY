@@ -1,6 +1,6 @@
 # Ruby Starter Project
 
-![Unit Tests & Lint](https://github.com/dimonlukhtanov/RUBY/workflows/Unit%20Tests%20&%20Lint/badge.svg)
+![Unit Tests & Lint](https://github.com/Dimonlukhtanov/RUBY/workflows/Unit%20Tests%20&%20Lint/badge.svg)
 
 
 ## Install
